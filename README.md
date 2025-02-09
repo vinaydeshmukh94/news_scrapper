@@ -2,6 +2,9 @@
 
 A Python-based web scraper to extract news headlines, summaries, and links from the BBC News homepage. The scraped data is saved to a CSV file for further analysis or use.
 
+![image](https://github.com/user-attachments/assets/9a92df53-3d5d-4cf4-8b9f-27c28611f6fd)
+
+
 ---
 
 ## Features
